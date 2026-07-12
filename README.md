@@ -10,3 +10,20 @@ I enjoy transforming raw data into meaningful business insights that support bet
 - 📦 Inventory & NOD Analysis
 - 📉 Business Intelligence
 - ⚡ Dashboard Development
+
+## 🛠️ Tech Stack
+
+💻 Languages & Databases
+Python • SQL • MySQL • PostgreSQL
+
+📊 Data Analytics
+Power BI • Excel • SAP BI • SAP CAR
+
+📈 Data Analysis
+Pandas • NumPy • Matplotlib
+
+📋 Excel
+Pivot Tables • XLOOKUP • INDEX MATCH • Power Query
+
+📦 Business Skills
+Retail Analytics • Inventory Analysis • Sales Analysis • KPI Reporting • Business Intelligence
