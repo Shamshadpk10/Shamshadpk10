@@ -13,17 +13,17 @@ I enjoy transforming raw data into meaningful business insights that support bet
 
 ## 🛠️ Tech Stack
 
-💻 Languages & Databases
+💻 Languages & Databases:
 Python • SQL • MySQL • PostgreSQL
 
-📊 Data Analytics
+📊 Data Analytics:
 Power BI • Excel • SAP BI • SAP CAR
 
-📈 Data Analysis
+📈 Data Analysis:
 Pandas • NumPy • Matplotlib
 
-📋 Excel
+📋 Excel:
 Pivot Tables • XLOOKUP • INDEX MATCH • Power Query
 
-📦 Business Skills
+📦 Business Skills:
 Retail Analytics • Inventory Analysis • Sales Analysis • KPI Reporting • Business Intelligence
